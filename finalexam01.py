@@ -1,6 +1,3 @@
-import math
-
-
 def pipi(i):
     sum = 0.0
     for j in range(1, i, 1):
